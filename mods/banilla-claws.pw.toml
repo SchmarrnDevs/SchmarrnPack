@@ -1,0 +1,13 @@
+name = "Banilla Claws"
+filename = "vanilla-claws-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dsbDBkUn/versions/1.0.0/vanilla-claws-1.0.0.jar"
+hash-format = "sha1"
+hash = "c3f61076a02a92e8f5e863535db12a917338d97b"
+
+[update]
+[update.modrinth]
+mod-id = "dsbDBkUn"
+version = "fq2aWEG8"

@@ -1,0 +1,13 @@
+name = "Schmarrn Pack"
+author = "andi_makes"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "82689a94a21dcb6746ad2e3a31e9a3afe218074f1699a99239b1b0c8fbc1ef46"
+
+[versions]
+minecraft = "1.18.2"
+quilt = "0.17.1-beta.4"

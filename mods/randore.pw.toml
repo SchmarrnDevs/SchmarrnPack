@@ -1,0 +1,13 @@
+name = "Rand'Ore"
+filename = "Randore-fabric-2.0.1-mc1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PVN8P7kZ/versions/2.0.1/Randore-fabric-2.0.1-mc1.18.2.jar"
+hash-format = "sha1"
+hash = "4725d6da8038f711d88393e0e28cba496f8e3cbe"
+
+[update]
+[update.modrinth]
+mod-id = "PVN8P7kZ"
+version = "8WZ7TeYf"
