@@ -1,9 +1,0 @@
-name = "Map Atlases"
-filename = "map-atlases-1.3.3.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Pepperoni-Jabroni/MapAtlases/releases/download/1.3.3/map-atlases-1.3.3.jar"
-hash-format = "sha1"
-hash = "038f7c70e6d951eadfea70d51f8873b851e9344d"
-

@@ -400,11 +400,6 @@ hash = "cea7e57f790cde53db4a76005bca2079df37fcb43df16961fbc6b2e116100b9c"
 metafile = true
 
 [[files]]
-file = "mods/map_atlases.pw.toml"
-hash = "36ff5f3bfbd7c5428849c052c8fa5673cfc8601d61f925cf93c8736536d8b968"
-metafile = true
-
-[[files]]
 file = "mods/mealapi.pw.toml"
 hash = "e647a60b9fde4189fee9c7de55af223de32df83f20818491e94180086d1969b8"
 metafile = true
