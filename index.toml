@@ -5,6 +5,14 @@ file = "config/leaves_us_in_peace.json"
 hash = "d50188416ebe3a203fc6e03b673d0b1131370763124ff6222ecd84ceceff07a9"
 
 [[files]]
+file = "config/quilt-loading-screen.json"
+hash = "c0a604412e333d77bd4a877089ef610b2e339558815417fd5b05e123e034cf0a"
+
+[[files]]
+file = "icon.png"
+hash = "00dc4b803e0577414424e609e89aff48322fafdce92220c4bb6ddf44f8b3cb86"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c007e2562bd557760bf5ac0dfb773cec6c3b601a450e24fbe7f3bc2c23982fb6"
 metafile = true
