@@ -283,6 +283,11 @@ hash = "2c95e7b32669fc4fd63fd4a724032287b01d60b470bd676c0bc383559284d20d"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "0a23e7762611ba4e5f43de3483278aff91982f1765975c742b7bbd03622cc723"
+metafile = true
+
+[[files]]
 file = "mods/dyeable-fishing-lines.pw.toml"
 hash = "c4451102c550f5cb8760c34656bec9753105fd05da2c0fba34b83c81b0edb98a"
 metafile = true
