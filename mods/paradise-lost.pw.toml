@@ -1,0 +1,9 @@
+name = " Paradise Lost"
+filename = "paradise-lost-1.6.9+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/devs-immortal/Paradise-Lost/releases/download/b1.6.9/paradise-lost-1.6.9+1.18.2.jar"
+hash-format = "sha1"
+hash = "e7d8dbe1acd673cc9838d8653f98eed52efcb878"
+

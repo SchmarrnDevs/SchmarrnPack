@@ -1,0 +1,13 @@
+name = "Turtle Soup"
+filename = "turtle-soup-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/55cFvDUi/versions/1.0.2/turtle-soup-1.0.2.jar"
+hash-format = "sha1"
+hash = "aa1bf00f6d478c4c19eabb264cf5e99976a7ccbc"
+
+[update]
+[update.modrinth]
+mod-id = "55cFvDUi"
+version = "zH33FTDr"

@@ -1,13 +1,9 @@
 name = "Requiem"
-filename = "requiem-2.0.0-beta.8.jar"
+filename = "requiem-2.0.0-beta.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bYmqMxlQ/versions/2.0.0-beta.8/requiem-2.0.0-beta.8.jar"
+url = "https://github.com/Ladysnake/Requiem/releases/download/2.0.0-beta.9/requiem-2.0.0-beta.9.jar"
 hash-format = "sha1"
-hash = "da7effce7715060c9968ee2dfda19caa87ac7a22"
+hash = "aa1e6ad22c123f75111f360495f71824cd01daf2"
 
-[update]
-[update.modrinth]
-mod-id = "bYmqMxlQ"
-version = "F8mFPPsd"
