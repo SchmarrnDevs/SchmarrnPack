@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/charm.toml"
+hash = "4bf70e6509f56bd24334a547ccd1fc2c2f5f8ad259d01a4c2fc890ebcdc40de8"
+
+[[files]]
 file = "config/leaves_us_in_peace.json"
 hash = "d50188416ebe3a203fc6e03b673d0b1131370763124ff6222ecd84ceceff07a9"
 
@@ -464,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "f1696e934e3c2fd7b7e50b79464162c8c94eb92943417ee46f0ffecdf1d86354"
+hash = "9d7472cb1465125ff5312870eb16fc786422e1a19507a84d993602183940377b"
 metafile = true
 
 [[files]]
