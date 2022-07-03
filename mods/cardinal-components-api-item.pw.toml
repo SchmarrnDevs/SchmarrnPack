@@ -1,9 +1,9 @@
 name = "Cardinal Components API (Item)"
-filename = "cardinal-components-item-4.1.4.jar"
+filename = "cardinal-components-item-4.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/K01OU20C/versions/4.1.4/cardinal-components-item-4.1.4.jar"
+url = "https://cdn.modrinth.com/data/K01OU20C/versions/4.2.0/cardinal-components-item-4.2.0.jar"
 hash-format = "sha1"
-hash = "683d39b861bbcb22bc22d800eeb692137d590e43"
+hash = "e12690c86706e7df7d693bf8a7bfa97b61225491"
 

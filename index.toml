@@ -108,6 +108,16 @@ hash = "628c921ed428851da53ed2b47cabab1d83bc7cdfa773de9f860445a03f878ee8"
 metafile = true
 
 [[files]]
+file = "mods/bewitchment-plus.pw.toml"
+hash = "14d472de5e02126714ef666c2872acfd2da9740d05f2868c8528a7733785c6c4"
+metafile = true
+
+[[files]]
+file = "mods/bewitchment.pw.toml"
+hash = "f173d12e4bec1e529d375e5a9e3aeb6e2eb11ef5e15c4be3645f5b541f2b7153"
+metafile = true
+
+[[files]]
 file = "mods/biome-makeover.pw.toml"
 hash = "0a915d73fdcc484093b5d7f88b21c2426c7065879b6a1715ca738f112c62ce5b"
 metafile = true
@@ -154,12 +164,12 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api-item.pw.toml"
-hash = "49d641e33a452679f368acba86a48ee3ea85377a78255f12c6ab320985fec28a"
+hash = "857a6eae8059e9f06fa1ec4675a5c481c5b3cbc3f9f02d57815eda60d4dfb4d7"
 metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "53e2757af354d2f5df6d881fabcd5d0bb0bb5d13557f97429f119d2ad0eb53f4"
+hash = "00b899c57e9a8a7b53dc2aeba115a4a45e3932f172d8b06de7931fb4c1324b3a"
 metafile = true
 
 [[files]]
@@ -200,6 +210,11 @@ metafile = true
 [[files]]
 file = "mods/chocolate-bar.pw.toml"
 hash = "35bd0576d15a453f6c0a02a867349b0d7296605978c89d71bf0d83d3eb41adf1"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "28bb1d5f48456c9c78599e37c8c52e2a87fd30ef90bb7fcb1db24a6abd40d697"
 metafile = true
 
 [[files]]
@@ -265,6 +280,11 @@ metafile = true
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "cd41e5b7c8618ab49ce53eb61df2877be283b16eebf92b11f1b110bcd8494a02"
+metafile = true
+
+[[files]]
+file = "mods/dark-rites-2.pw.toml"
+hash = "e916cbe43b50b09c8c9bfeae4ff879014bd5144a063517526f47b66fedb5e127"
 metafile = true
 
 [[files]]
@@ -383,8 +403,28 @@ hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
+file = "mods/firework-frenzy.pw.toml"
+hash = "472ca78b962f45ce234e1d85bc0fad51e25519ee49cdb1d2b93d06854677e8ff"
+metafile = true
+
+[[files]]
 file = "mods/fish-of-thieves.pw.toml"
-hash = "9189843ccae7e50ea85ff51f2ccdeac58462ab5817d38a1251fb78dabeecab8e"
+hash = "0a2fbc23940fb59a3896b2218aa738af3f96c87780b295b787e528e27dcbda9e"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-fabric.pw.toml"
+hash = "d6fe7bafcf70423e17d05f3d21a502ca31a1115db4b5e774a95df611dae248a4"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "1ccfd677a7cb6b2f5ab58f7b4b631f3c4974bf597111d3a8700036a811518b4c"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "03f6d4651da69de498d2033f9cec972d59878abbef08131eb8f0d9b1ab5d2dba"
 metafile = true
 
 [[files]]
@@ -394,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "59948a45e0fe63daee394c4707081e2f01b6291dae9336e5b7c2a46dc59ba16e"
+hash = "6d1e9a6628f25c3c20e853fa085f2e7679fe10d7117ad7a6593e1c1016f1c570"
 metafile = true
 
 [[files]]
@@ -558,6 +598,16 @@ hash = "7b698467c51828a5eb22da876bfdae2d9d1981ed2618555875632166fc0e1310"
 metafile = true
 
 [[files]]
+file = "mods/mythic-mounts.pw.toml"
+hash = "902742307fefa3a70b34d182794d987e6ac7613d0b21d571782b97bd7817d74b"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "030b818f7aa75596fe5c0a04b15c66dc0531c79aee5820a30379cc5af77ee46d"
+metafile = true
+
+[[files]]
 file = "mods/nears.pw.toml"
 hash = "6dd6cc46b7c0df3202e5c41768090af72158785e1babde72432fd59fb7d9d933"
 metafile = true
@@ -570,6 +620,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
+metafile = true
+
+[[files]]
+file = "mods/overweight-farming.pw.toml"
+hash = "067cb44fe17ca1644ca1ac1c34d4032425ddeb37048a31c1194799195ef01985"
 metafile = true
 
 [[files]]
@@ -743,6 +798,11 @@ hash = "62c4c00ecc9ca4ca806808ed111578bfa358a44646c61afa31db31055bceed87"
 metafile = true
 
 [[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "f432769b08aa82fe8f4f8543171434e4ff205bb7d7ec2c4dd7631b9ba7eb2955"
+metafile = true
+
+[[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
 hash = "2531b1f566615be4d1c1eec2747bace55ce209707cfa122ae1cbbad3d2482937"
 metafile = true
@@ -810,6 +870,11 @@ metafile = true
 [[files]]
 file = "mods/wiredredstone.pw.toml"
 hash = "6ed790035c4619588147bf06c3a57537ff0e9591d2f83cd9c378e450197590ae"
+metafile = true
+
+[[files]]
+file = "mods/wolves-with-armor.pw.toml"
+hash = "e70fadd8e4c57788ce1effe837f2db94a2c9ef3f73753f598b16ebd896722150"
 metafile = true
 
 [[files]]

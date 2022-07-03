@@ -1,0 +1,13 @@
+name = "Dark Rites 2"
+filename = "darkrites-1.18.2-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e371b56c8e9877205e1e386f75387eefeb78e4d1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3837515
+project-id = 542221
