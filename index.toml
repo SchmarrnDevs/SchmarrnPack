@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/charming-requiem.pw.toml"
-hash = "350d0e60e4fda07cd35afda177a2c9a275d1c2f21e34da26275de92f1b45aa7f"
+hash = "80d56cee8965a2cadd3a222a9618aebeb896e2eb8dcf05fb5cc271606e0dedc0"
 metafile = true
 
 [[files]]
