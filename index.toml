@@ -202,6 +202,11 @@ hash = "3d92bb395633472dac89164cdb9c1509182d27441e652d7fecd78bc9ed6efe4c"
 metafile = true
 
 [[files]]
+file = "mods/charming-requiem.pw.toml"
+hash = "3be1ceda6b6319cc1df22fc152524b97fa6c4d20446a257f5301f0f6ca36d1ba"
+metafile = true
+
+[[files]]
 file = "mods/charmonium.pw.toml"
 hash = "367815925e45cbd7c3e6e33712038edf20f6139a6a98f460215a28f106a91be8"
 metafile = true
