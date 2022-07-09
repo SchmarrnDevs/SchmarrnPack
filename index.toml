@@ -9,8 +9,28 @@ file = "config/leaves_us_in_peace.json"
 hash = "d50188416ebe3a203fc6e03b673d0b1131370763124ff6222ecd84ceceff07a9"
 
 [[files]]
+file = "config/openloader/data/modpack-adjustments/data/create/recipes/crushing/raw_copper.json"
+hash = "c3847bb75afe09d0e02c3807b205b183d91a7685ecdb0d5d6349d128c16d998a"
+
+[[files]]
+file = "config/openloader/data/modpack-adjustments/data/create/recipes/crushing/raw_copper_block.json"
+hash = "d8e7312ee858b6cb67afd871e95783dff1dc4237c2ef5cd67caa142bd181a8a5"
+
+[[files]]
+file = "config/openloader/data/modpack-adjustments/data/create/recipes/crushing/raw_gold.json"
+hash = "f13827c479d4b4984399e27e2e92880c0578baf822d91c9feab14327742c602b"
+
+[[files]]
+file = "config/openloader/data/modpack-adjustments/data/create/recipes/crushing/raw_gold_block.json"
+hash = "f3c5f6e860d0c4726d52d3ae93f4cc56d21e527dfa7827b3c2913dc2f88cafdb"
+
+[[files]]
 file = "config/openloader/data/modpack-adjustments/data/create/recipes/crushing/raw_iron.json"
-hash = "25b13d97016d5dcb38d528201de97cdc0b10fee0f14032d902a6c02ae5091fb6"
+hash = "1e575d032dbbd9d77eac655ea2ae60ed8f58943a3951a2080c3876d45988de5c"
+
+[[files]]
+file = "config/openloader/data/modpack-adjustments/data/create/recipes/crushing/raw_iron_block.json"
+hash = "236ad5e14df60b5a6005e6125c2ef39726fa1f7add3370b61e1fe368b1ae91b2"
 
 [[files]]
 file = "config/openloader/data/modpack-adjustments/pack.mcmeta"
@@ -692,6 +712,11 @@ metafile = true
 [[files]]
 file = "mods/plated.pw.toml"
 hash = "d027d7e40ff623be9493de93567061f0e1b31fa51b7fa1ff8be656e3763dcadd"
+metafile = true
+
+[[files]]
+file = "mods/pling.pw.toml"
+hash = "dfc73c6ed21d8be632f3d253bd23a921b1e690107a0cd70c63c55a5568278bfd"
 metafile = true
 
 [[files]]
