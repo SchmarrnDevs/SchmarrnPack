@@ -9,6 +9,14 @@ file = "config/leaves_us_in_peace.json"
 hash = "d50188416ebe3a203fc6e03b673d0b1131370763124ff6222ecd84ceceff07a9"
 
 [[files]]
+file = "config/openloader/data/modpack-adjustments/data/create/recipes/crushing/raw_iron.json"
+hash = "25b13d97016d5dcb38d528201de97cdc0b10fee0f14032d902a6c02ae5091fb6"
+
+[[files]]
+file = "config/openloader/data/modpack-adjustments/pack.mcmeta"
+hash = "96f484dada60c079a3344357be8e3ceca8cf7e0cafa63cc1f5c7ea438ebf0aa7"
+
+[[files]]
 file = "config/quilt-loading-screen.json"
 hash = "c0a604412e333d77bd4a877089ef610b2e339558815417fd5b05e123e034cf0a"
 
@@ -629,6 +637,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "a259b4f251c2f694f3b07f2ef979e726bee9351e9e9af862d6e21eeb9d9fa4f9"
 metafile = true
 
 [[files]]
