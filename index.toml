@@ -320,6 +320,11 @@ hash = "cd41e5b7c8618ab49ce53eb61df2877be283b16eebf92b11f1b110bcd8494a02"
 metafile = true
 
 [[files]]
+file = "mods/dark-enchanting.pw.toml"
+hash = "1965a12b3c48cdefb67492cf848f2e334a234519286de49fd9259bc79742c76b"
+metafile = true
+
+[[files]]
 file = "mods/dark-rites-2.pw.toml"
 hash = "e916cbe43b50b09c8c9bfeae4ff879014bd5144a063517526f47b66fedb5e127"
 metafile = true
@@ -762,6 +767,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "1a44092a2a331f6928860db72aa31314b775e0bc11115facc0504004f7b6d286"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "261c6f1cddd8eb3e4bdab72d2787bbc462007ab169844767bdf38ca1917c6b1d"
 metafile = true
 
 [[files]]
