@@ -1,13 +1,13 @@
 name = "Overweight Farming"
-filename = "overweightfarming-1.18.2-1.4.2-fabric.jar"
+filename = "overweightfarming-1.18.2-1.5.3-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "24030b48a915ececa0f4c113aaa2a02058c6a843"
+hash = "4eab173d5273af3917189b2688f161122ab90398"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3828990
+file-id = 3875218
 project-id = 591666

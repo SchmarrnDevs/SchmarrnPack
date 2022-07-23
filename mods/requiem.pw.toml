@@ -3,7 +3,11 @@ filename = "requiem-2.0.0-beta.9.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Ladysnake/Requiem/releases/download/2.0.0-beta.9/requiem-2.0.0-beta.9.jar"
 hash-format = "sha1"
 hash = "aa1e6ad22c123f75111f360495f71824cd01daf2"
+mode = "metadata:curseforge"
 
+[update]
+[update.curseforge]
+file-id = 3852823
+project-id = 265729

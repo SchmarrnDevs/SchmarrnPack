@@ -141,17 +141,17 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment-plus.pw.toml"
-hash = "14d472de5e02126714ef666c2872acfd2da9740d05f2868c8528a7733785c6c4"
+hash = "875097dc455beb8ff58d7ebe833b29befd305a3e75442874b32b8331dcc369a1"
 metafile = true
 
 [[files]]
 file = "mods/bewitchment.pw.toml"
-hash = "f173d12e4bec1e529d375e5a9e3aeb6e2eb11ef5e15c4be3645f5b541f2b7153"
+hash = "234672988f6d344c27312777c87052bef1eff00befba1f3c353fa793b8ef1ba0"
 metafile = true
 
 [[files]]
 file = "mods/biome-makeover.pw.toml"
-hash = "0a915d73fdcc484093b5d7f88b21c2426c7065879b6a1715ca738f112c62ce5b"
+hash = "7639475415291bd789f96b8c6f151b6e31d9a3223305bf83bd3f7b0ebe834d8e"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "f59359dcae8d9da125653d9127157a53ee780cff1580d9dcddfff8b9f0a167a9"
+hash = "4804c4d205233643805e4d7aba529ddac4771a50997cac5965c2715485b5f041"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "3b3f1b5eccbb1a9f737e64a935c5ae9e86d823d231535a1d1b2d3e1e03f0ec4c"
+hash = "96963fe0e7f130593ec33f6de15b14a6a2794fab9cff4a166c412d7808bee501"
 metafile = true
 
 [[files]]
@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "dfa7afb1d9f09e2eef314cd669d9ce61b9c97e5c69025dbaad34e9c2ee5a7fa4"
+hash = "5b4dd59f41be14c79701338a53e3b277c7ad9ead099b5d200450c05ae0ccbf7f"
 metafile = true
 
 [[files]]
@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "6d1e9a6628f25c3c20e853fa085f2e7679fe10d7117ad7a6593e1c1016f1c570"
+hash = "810dfe46f616e54d2659432edcab7fa0f0c0c53ea9773ce817647ee483278920"
 metafile = true
 
 [[files]]
@@ -481,12 +481,12 @@ metafile = true
 
 [[files]]
 file = "mods/haema.pw.toml"
-hash = "429d7a134951d0b11b920b6eb0ad07d7bbe73b1a254d022719633a3f875fed9f"
+hash = "30415bb06f782ee54d22b083f36994022db7c9ff806a7328b98839a21ff630bd"
 metafile = true
 
 [[files]]
 file = "mods/half-doors.pw.toml"
-hash = "cb2ecfbac86c12da9a97625ded60935caa8ece805f40af143526c6bac1d718f7"
+hash = "933bae280bc8e1d572b3052f7912aa50929bc7e30be6a774bee0aba678babdc3"
 metafile = true
 
 [[files]]
@@ -566,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/lanterns-bow.pw.toml"
-hash = "d39410bbb05dc0ced33baa5d43c3721100b5f9e36f201e35547a19ad00f2bcca"
+hash = "5a282ddcede998bb2543af8565e9f599e570957563bf27d825b89e945ef5773a"
 metafile = true
 
 [[files]]
@@ -586,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
-hash = "9ab44cab1fc04430f6b47c166f3d07cd55aa00278d89ff010556a852cbbdf1e4"
+hash = "4a194e6a5c3f4ad148251e3c37f6f5e32668dd26dcfb53dbfcd67640d379bcbb"
 metafile = true
 
 [[files]]
@@ -631,7 +631,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "7b698467c51828a5eb22da876bfdae2d9d1981ed2618555875632166fc0e1310"
+hash = "c00114ebbbdf5b001d7a81f9508a6c6675fab5e7cff89de3cc7d763e7ab33427"
 metafile = true
 
 [[files]]
@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/overweight-farming.pw.toml"
-hash = "067cb44fe17ca1644ca1ac1c34d4032425ddeb37048a31c1194799195ef01985"
+hash = "f92579278a2a0e0263f385ca624b2fe2c29830abafe7809549ba49b95300615d"
 metafile = true
 
 [[files]]
@@ -680,8 +680,8 @@ hash = "2db581eeb36d3d949d4cf854b9132195f3d254532eb338ed541aa684c27083da"
 metafile = true
 
 [[files]]
-file = "mods/patchouli.pw.toml"
-hash = "efc2a5c84648fe9d84aaaae5ecdd352f3fff2a81857e53806f6a67d6e67dd845"
+file = "mods/patchouli-fabric.pw.toml"
+hash = "b3625f171b02ba1264bd281a8ab36708f68501f40cdfdb2c703e13c188d8324e"
 metafile = true
 
 [[files]]
@@ -746,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "c704ab1b78607e345633f54f6f0d3a4ffa9fdb37600c87a794bd67fab3ec9b54"
+hash = "b17d25b273caec976c340d196d09482b908d8ae43e389132c787714100ea8186"
 metafile = true
 
 [[files]]
@@ -756,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/requiem.pw.toml"
-hash = "9a5bbd1ae11d164398dce39fb167ce46429c96eff4812db8f8442c7c62e308de"
+hash = "f5e2104ce9283465331b9cfd0f1c824647bc7f7dfffd3e5c373818d135a5b7aa"
 metafile = true
 
 [[files]]
@@ -871,7 +871,7 @@ metafile = true
 
 [[files]]
 file = "mods/traverse.pw.toml"
-hash = "733ba0192ace6b32bbdfb6902a9856688b6588d84d08d10355685149d02a5da8"
+hash = "4d2cdb28ec71e8867d5e4333a89417de79ba60fbc400629e8991b082c0ac270f"
 metafile = true
 
 [[files]]
@@ -916,7 +916,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "6ed790035c4619588147bf06c3a57537ff0e9591d2f83cd9c378e450197590ae"
+hash = "ddac7bbfe506e4163f2ff69cf36c7d41526b91bb9a9492a5daecd902623db516"
 metafile = true
 
 [[files]]
