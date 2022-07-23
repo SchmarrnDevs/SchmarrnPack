@@ -380,11 +380,6 @@ hash = "b02225c81460d8beaa62406e395002e61df605f4cf49ae12368ba9fcff9b3bca"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "bc859d5d17706a14eff618bae19efe135954a56c5afc963a84a6591ea468cd5e"
-metafile = true
-
-[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "3e270c8f639faff030ec23ef25850608e5ac43fbe627c724c41e4ec1c19d3137"
 metafile = true
