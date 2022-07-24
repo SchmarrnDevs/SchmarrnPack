@@ -1,12 +1,12 @@
 name = "Schmarrn Pack"
 author = "andi_makes"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "dd37a9cf192ca45771ca7f32e759641757c0602ef02dde8f665cdca6705a5445"
+hash = "61373425bd81bebd85d1078f509aa6a8840063a78275490bf2171b46b6e220c3"
 
 [versions]
 fabric = "0.14.8"

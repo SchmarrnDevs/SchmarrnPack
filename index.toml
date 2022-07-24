@@ -201,7 +201,17 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "00b899c57e9a8a7b53dc2aeba115a4a45e3932f172d8b06de7931fb4c1324b3a"
+hash = "bd1682a96d36541581d636eb8bb9438c2276a175d42cc9db1d7dc007664d5353"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-base.pw.toml"
+hash = "f50a67d5fbe1a8866232ef9bdd844c0f883a74d9ae40aea4bb592931a506ad2d"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-entity.pw.toml"
+hash = "56daa0b1033a1ee623234c9d6ba7f65ecf901c5b2d10d22b87fdc7e88fecda66"
 metafile = true
 
 [[files]]
@@ -777,11 +787,6 @@ metafile = true
 [[files]]
 file = "mods/screencopy.pw.toml"
 hash = "496dedc2c6ce053f2a1160ee81c1e304a954c9a9b462e68832a88243e13b68d8"
-metafile = true
-
-[[files]]
-file = "mods/scrollable-tooltips.pw.toml"
-hash = "13b5ee3e4e45bd4c89b43902814626add3ec7438a8557f1ca7ba281240f3c995"
 metafile = true
 
 [[files]]
