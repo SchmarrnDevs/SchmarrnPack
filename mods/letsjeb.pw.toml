@@ -1,0 +1,9 @@
+name = "Let's Jeb!"
+filename = "letsjeb-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://git.schmarrn.dev/attachments/fcc292d7-4a7d-4c25-8cfa-150bae6210fc"
+hash-format = "sha1"
+hash = "2db6c42a7f0f2af31ba9d11604f10436271cfe4b"
+

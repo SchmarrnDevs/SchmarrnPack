@@ -595,6 +595,16 @@ hash = "e969f8b43e5679d9adf2f027a744f65b011904aa5ad9dd451a48dcb0521f2966"
 metafile = true
 
 [[files]]
+file = "mods/letsjeb.pw.toml"
+hash = "4dfe1f77880c88a301fbe65901f7a4f45d681f26bbf1506120eb88b8925c3349"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "a41541350666936a30bf917b39c0ea12e6f877bad4665f8f4f472052f553a3dd"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
 metafile = true
