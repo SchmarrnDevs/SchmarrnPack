@@ -360,6 +360,11 @@ hash = "2c95e7b32669fc4fd63fd4a724032287b01d60b470bd676c0bc383559284d20d"
 metafile = true
 
 [[files]]
+file = "mods/deep-mob-learning-simulacrum.pw.toml"
+hash = "0c9b8cb40ee451e7898644a870985bb94d169ac3154e5032cbdc951a34c57e5d"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "96963fe0e7f130593ec33f6de15b14a6a2794fab9cff4a166c412d7808bee501"
 metafile = true
@@ -747,6 +752,11 @@ metafile = true
 [[files]]
 file = "mods/plushie.pw.toml"
 hash = "6974e3d3b42a84f3723fc3b65af43bb3bf93c900051a1f91c22c3c143c1fc684"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "e133de2b1c1c78233936f12027f41593885718e918cfa0053619b76d704ff90e"
 metafile = true
 
 [[files]]
