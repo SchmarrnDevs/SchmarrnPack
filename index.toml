@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "4804c4d205233643805e4d7aba529ddac4771a50997cac5965c2715485b5f041"
+hash = "4afc08f4709e3c18095c7072dbb31dea65c030fb527b56884eb6cb0dd91b62ee"
 metafile = true
 
 [[files]]
@@ -771,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/purpeille.pw.toml"
-hash = "b28d4e7cc67a9d4b35df0220d966c3849b77866919c25516025f62f70a7fe9f0"
+hash = "e8f540789a9fc6a8cc328a30c99b04278f234714d7462e342072007e32727a0e"
 metafile = true
 
 [[files]]
@@ -826,7 +826,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-copper-pipes.pw.toml"
-hash = "92dc874a7927672556ad3d33783c44d9f7a51be5b56d08801c02c7c22ca488f5"
+hash = "0cdc3dee0005b9e90c41c47693a7441ab05e8b638a33e2a1a7d363e02cfcf7c5"
 metafile = true
 
 [[files]]
