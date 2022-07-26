@@ -551,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c21394e6fa95ad9308f71a16bf109f31c8f6fad7804f927748a2502709c00318"
+hash = "efbd7cc6f707ab073d53f2a717ac4608e0033852555c1ec3e89e2954724fc6fc"
 metafile = true
 
 [[files]]
@@ -616,7 +616,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
-hash = "4a194e6a5c3f4ad148251e3c37f6f5e32668dd26dcfb53dbfcd67640d379bcbb"
+hash = "57220e0ed2701759d7b3769bd337bbf128b049acc98f645a71ec88b40170db48"
 metafile = true
 
 [[files]]
@@ -961,7 +961,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "ddac7bbfe506e4163f2ff69cf36c7d41526b91bb9a9492a5daecd902623db516"
+hash = "2f0568fb1dc90f4a9783af9d3196edc3dc9ee5cdcd1eb1cb42080dd8bef3ade6"
 metafile = true
 
 [[files]]
