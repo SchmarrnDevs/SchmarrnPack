@@ -685,11 +685,6 @@ hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
 metafile = true
 
 [[files]]
-file = "mods/nullscape.pw.toml"
-hash = "36d11120f7b29d438f0c786c54b547b1427d06d9724ddaa7010ff9b2717914df"
-metafile = true
-
-[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "a259b4f251c2f694f3b07f2ef979e726bee9351e9e9af862d6e21eeb9d9fa4f9"
 metafile = true
