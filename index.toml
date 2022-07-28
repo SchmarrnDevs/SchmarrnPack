@@ -9,6 +9,10 @@ file = "config/leaves_us_in_peace.json"
 hash = "d50188416ebe3a203fc6e03b673d0b1131370763124ff6222ecd84ceceff07a9"
 
 [[files]]
+file = "config/openloader/data/Nullscape_1.18.2.zip"
+hash = "976a26d165224aeb50df87875ea7e6ab806d4e0e258eea3f21a4ce8ab5ceb30a"
+
+[[files]]
 file = "config/openloader/data/modpack-adjustments/data/create/recipes/crushing/raw_copper.json"
 hash = "c3847bb75afe09d0e02c3807b205b183d91a7685ecdb0d5d6349d128c16d998a"
 
