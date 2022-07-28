@@ -389,13 +389,13 @@
 [TotemOfPreserving]
 	#A list of game difficulties in which totems will behave in 'Grave mode'.
 	#In Grave mode, a totem will be dropped on death even if the player doesn't have an empty totem in their inventory.
-	"Grave mode game difficulties" = ["peaceful", "easy", "normal", "hard"]
+	"Grave mode game difficulties" = []
 	#Mobs that have a chance to drop a totem of preserving.
 	#This does not apply if Grave mode is active for the current game difficulty. See 'Grave mode game difficulties' to configure this.
-	"Mobs drop totems" = ["entities/witch", "entities/pillager"]
+	"Mobs drop totems" = []
 	#Chest loot tables that will always contain a totem of preserving.
 	#This does not apply if Grave mode is active for the current game difficulty. See 'Grave mode game difficulties' to configure this.
-	"Chests contain totems" = ["chests/pillager_outpost", "chests/woodland_mansion"]
+	"Chests contain totems" = []
 	#If true, the totem will preserve the player's experience and restore when broken.
 	"Preserve XP" = false
 	#If true, the coordinates where you died will be added to the player's chat screen.

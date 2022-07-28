@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/charm.toml"
-hash = "4bf70e6509f56bd24334a547ccd1fc2c2f5f8ad259d01a4c2fc890ebcdc40de8"
+hash = "f07dee9696dd7c874b38e85d32c3161eae1889f8f4daf500ef077c450746c83d"
 
 [[files]]
 file = "config/leaves_us_in_peace.json"
@@ -534,11 +534,6 @@ hash = "4191daf9db203945cd504e0489ce9008f718bb69fa8ce36cf3847ab28f05355c"
 metafile = true
 
 [[files]]
-file = "mods/immersive-weathering.pw.toml"
-hash = "a226f8fd112cc69f1aa70039a657f76060cd8a71b5c6f1e47b282bbf26f35063"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "b8e50e473a9a5f9d41dba92a20e6af19156a23d3f70cc87c4fe164ea83e0e238"
 metafile = true
@@ -981,4 +976,9 @@ metafile = true
 [[files]]
 file = "mods/xp-obelisk.pw.toml"
 hash = "1e4064990e1b2dfd538747685e13b6753f56722b1feabb7edaf7bb819a8b1246"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "8186a9fe882ce3c15c25892ac97cdad7db31db9da1d7836846a9a01c12759892"
 metafile = true
