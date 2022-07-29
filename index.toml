@@ -169,6 +169,11 @@ hash = "46888b5e0a15210ac8599d20bca17987998095ae965d1af214ec751ef73ba26e"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "43b267ab1abf43db08d5b1b57d24e1a090fcd5c7df6673a105013a9015d956ad"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "c2dc3701c79aad2fa278359d47c32d4e4a10c349b0fc06e8b7400dec9b48700c"
 metafile = true
@@ -406,6 +411,11 @@ metafile = true
 [[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "3e270c8f639faff030ec23ef25850608e5ac43fbe627c724c41e4ec1c19d3137"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "e555fc6193553393d2cb55efe723a2ed726329942627519762ba8886d573b751"
 metafile = true
 
 [[files]]
