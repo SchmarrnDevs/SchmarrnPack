@@ -283,6 +283,11 @@ hash = "c7db587d0799043490a1cdc144bbcc7a3ddaaff13e2f5ebbb145b796c1ce7115"
 metafile = true
 
 [[files]]
+file = "mods/companion-fabric.pw.toml"
+hash = "57386627dec02f63b532eaf99142085dc6a20f1c5d28540dd91e266ea07ff7ee"
+metafile = true
+
+[[files]]
 file = "mods/conjuring.pw.toml"
 hash = "c5d09d53ce43fabbf58e107c50c9103d018ef61a830b734d2819a1c3a2658303"
 metafile = true
@@ -800,6 +805,11 @@ metafile = true
 [[files]]
 file = "mods/requiem.pw.toml"
 hash = "f5e2104ce9283465331b9cfd0f1c824647bc7f7dfffd3e5c373818d135a5b7aa"
+metafile = true
+
+[[files]]
+file = "mods/respawnable-pets.pw.toml"
+hash = "4948b6f41b93f93fe055d82b9ede0587ddb4315ff15a64380956a1b3cbe348eb"
 metafile = true
 
 [[files]]
