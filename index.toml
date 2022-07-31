@@ -613,8 +613,8 @@ hash = "4dfe1f77880c88a301fbe65901f7a4f45d681f26bbf1506120eb88b8925c3349"
 metafile = true
 
 [[files]]
-file = "mods/light-overlay.pw.toml"
-hash = "a41541350666936a30bf917b39c0ea12e6f877bad4665f8f4f472052f553a3dd"
+file = "mods/lighty.pw.toml"
+hash = "b89c68038b76d29d3badd77727c455fd9389de2d203474fe42e02dd35e8b4761"
 metafile = true
 
 [[files]]
