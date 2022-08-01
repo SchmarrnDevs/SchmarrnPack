@@ -74,6 +74,11 @@ hash = "5abc12552213928b79b61c9c51c4f5ea9e4f95ee524136139ccb52f676cd763d"
 metafile = true
 
 [[files]]
+file = "mods/aileron.pw.toml"
+hash = "8c42b6f1a1d85397f4c4209af3d044267c585ed3b8ef5031f29be2485854f932"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "28f3a330db6ec489843622d1c0eeb6a40a92f2892073934e8ed3f974276f3519"
 metafile = true

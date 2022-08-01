@@ -1,0 +1,13 @@
+name = "Aileron"
+filename = "aileron-1.18.2-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b8kG1VGq/versions/1.0.0/aileron-1.18.2-fabric-1.0.0.jar"
+hash-format = "sha1"
+hash = "6576667e83f845e07dbfa2709d3f89e4ced539de"
+
+[update]
+[update.modrinth]
+mod-id = "b8kG1VGq"
+version = "aVXO74oP"
