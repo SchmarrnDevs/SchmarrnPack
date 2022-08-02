@@ -1,0 +1,13 @@
+name = "Passive Chunk Pregenerator"
+filename = "Passive Chunk Pregenerator-fabric-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a7ZtSmv6/versions/1.0.1/Passive%20Chunk%20Pregenerator-fabric-1.18.2-1.0.1.jar"
+hash-format = "sha1"
+hash = "761d689d84f1a92d79a1127c2e478b3270cf4234"
+
+[update]
+[update.modrinth]
+mod-id = "a7ZtSmv6"
+version = "8bk1OJa6"

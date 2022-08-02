@@ -723,6 +723,11 @@ hash = "2db581eeb36d3d949d4cf854b9132195f3d254532eb338ed541aa684c27083da"
 metafile = true
 
 [[files]]
+file = "mods/passivepregen.pw.toml"
+hash = "bca47bfad6a31f54f928c99d64a6c98de369fa44b8f2ce80f36e96be4cc3c128"
+metafile = true
+
+[[files]]
 file = "mods/patchouli-fabric.pw.toml"
 hash = "b3625f171b02ba1264bd281a8ab36708f68501f40cdfdb2c703e13c188d8324e"
 metafile = true
