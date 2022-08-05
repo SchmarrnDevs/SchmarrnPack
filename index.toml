@@ -248,6 +248,11 @@ hash = "8d668f1c873b6d792dcab8d3360d0c3788893086006bd1132ebe9a2ac629dd24"
 metafile = true
 
 [[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "cd067f1b9534808fdd9db3e5a41f22e7b334b0a19b64fcdd19ac74754c889fec"
+metafile = true
+
+[[files]]
 file = "mods/chalk.pw.toml"
 hash = "9d964354c8312bf29747e4ad32fb3967f868b8ada1de92ed6b25742eb87ea3e8"
 metafile = true
