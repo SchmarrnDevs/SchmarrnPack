@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/MythicMountsConfig.json"
+hash = "2f5d93f74b5aaf56e102fab0730d4345cf5702e4f9114b759ef8dda80546b3af"
+
+[[files]]
 file = "config/charm.toml"
 hash = "f07dee9696dd7c874b38e85d32c3161eae1889f8f4daf500ef077c450746c83d"
 
@@ -39,6 +43,10 @@ hash = "236ad5e14df60b5a6005e6125c2ef39726fa1f7add3370b61e1fe368b1ae91b2"
 [[files]]
 file = "config/openloader/data/modpack-adjustments/pack.mcmeta"
 hash = "96f484dada60c079a3344357be8e3ceca8cf7e0cafa63cc1f5c7ea438ebf0aa7"
+
+[[files]]
+file = "config/promenade/monsters.json"
+hash = "54452aea2885d622d4563915357f48e482dc312f33a0163e1311d07deabb6208"
 
 [[files]]
 file = "config/quilt-loading-screen.json"
