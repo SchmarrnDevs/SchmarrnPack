@@ -753,6 +753,11 @@ hash = "848b034cd45ed1aaaa9830f24a9fa33d1b7cd1a5f8a785bbcbc80cad410b6e00"
 metafile = true
 
 [[files]]
+file = "mods/piercing-paxels.pw.toml"
+hash = "b77a5bbcd37d1da508afedbe2c8c1b0aebdb7d841ee815af1413f50d2e50b707"
+metafile = true
+
+[[files]]
 file = "mods/plant-in-a-jar.pw.toml"
 hash = "2a4a997b1832acda89e4612c3f12450a8c71da26ddcaeab2a6a77966ada5b545"
 metafile = true
