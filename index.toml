@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/building-wands.pw.toml"
-hash = "29994d3277f5213bc013007296ccd25b5e34f55826d613d62d59ef89d4eac6e3"
+hash = "ca7eadd1bd786fb23e842f977f5cbb76ef8c7459e86f71f79f8700f82ab2b1d9"
 metafile = true
 
 [[files]]
@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/charm.pw.toml"
-hash = "3d92bb395633472dac89164cdb9c1509182d27441e652d7fecd78bc9ed6efe4c"
+hash = "044a2b6829775056c00198a05108187305ba9b57180a5f7540a453fe25e1c952"
 metafile = true
 
 [[files]]
@@ -939,7 +939,7 @@ metafile = true
 
 [[files]]
 file = "mods/traverse.pw.toml"
-hash = "4d2cdb28ec71e8867d5e4333a89417de79ba60fbc400629e8991b082c0ac270f"
+hash = "6ad8bd4ab3086a102dc1a4a5266e7482c0f6d79373a74c7bd5fd98d4156a4740"
 metafile = true
 
 [[files]]
