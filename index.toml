@@ -108,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "37c11528bcdb10c771c37d7e129a7841a8f0ebc08f91d04231914fec8a729fbd"
+hash = "a762150026feade1cec5a38ea7d929dabae573921c6d5ae6a63bcecacdefe251"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/consistencyplus.pw.toml"
-hash = "9f6e91210d4f90007541000ff482119f9b228d318e0d2eb0234cfcb38b53a81f"
+hash = "cd9ea7fbf95e516cf697bec8537cd21b2e5f3cfda94c665ac17941279e903563"
 metafile = true
 
 [[files]]
@@ -632,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "b6d6f8a09f67a72713c621425b75b54d8091e3776aa9687f4639e1dab4e28359"
+hash = "640d2016b5dcbdddc1e6e338df78f8038518263c8cb97a1eafa7bbaa83a78eb3"
 metafile = true
 
 [[files]]
@@ -747,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "4ace069e9be0d26966a236d4935edd5832d2a52e2268a43b63eb7843130b384f"
+hash = "f5c5039ecca5f696933623268db481026e44160cb5eee6de3b2485d06e08e829"
 metafile = true
 
 [[files]]
@@ -817,7 +817,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "b17d25b273caec976c340d196d09482b908d8ae43e389132c787714100ea8186"
+hash = "e82e252278eb697ed7620218aeb99ce62ee68987414ee43cba500d8452c85120"
 metafile = true
 
 [[files]]
