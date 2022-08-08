@@ -1,9 +1,13 @@
 name = "Lighty"
-filename = "lighty-1.0.0.jar"
+filename = "lighty-1.0.1.jar"
 side = "client"
 
 [download]
-url = "https://github.com/SchmarrnDevs/Lighty/releases/download/v1.0.0/lighty-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/yjvKidNM/versions/v1.0.1/lighty-1.0.1.jar"
 hash-format = "sha1"
-hash = "084c5187eea3400363c1dfc31b7f02367d68240c"
+hash = "d26459d08a5eaa7bcd7c6cefab5e0c0edb8102b7"
 
+[update]
+[update.modrinth]
+mod-id = "yjvKidNM"
+version = "YaBkSKF1"
