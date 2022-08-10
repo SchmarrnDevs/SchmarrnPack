@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "0940f87fc8d934433725019169945f77b7c27bd4a23828286ffb68aac4810a6c"
+hash = "80e7c9fd868c28612d6e9945044e274399579ab0007285f2ec50caf006c771f3"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/building-wands.pw.toml"
-hash = "ca7eadd1bd786fb23e842f977f5cbb76ef8c7459e86f71f79f8700f82ab2b1d9"
+hash = "9824679496e05bff4356d246e162a99bc38327a8fd7fac08b9d315218936d909"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/cccbridge.pw.toml"
-hash = "cd067f1b9534808fdd9db3e5a41f22e7b334b0a19b64fcdd19ac74754c889fec"
+hash = "7a316a592fc9ebcaec8f2af6c9a8a282d2478d049391d77099cb66c016ecdcc8"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "3476857955abc3053155ef32f1479594d3a7b61e522d570d66f1d0d327b4ecf8"
+hash = "b508bb6b509b96b2e297e94ca2ce365623730b938f32c74d49c574a7ef1ecb24"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "c9267a41da148c0d7c54631208be0b1528772980204c1270b0fe9ce0df3d73f6"
+hash = "50f3fd4c8887eab3e7d815dd0ef8ae89e8eb0a17665eb1a49dd162a67e57f843"
 metafile = true
 
 [[files]]
@@ -632,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "640d2016b5dcbdddc1e6e338df78f8038518263c8cb97a1eafa7bbaa83a78eb3"
+hash = "b7ffea5015bb106985a995588be3e80ed0264166a227496b0b780bdbcedd9e65"
 metafile = true
 
 [[files]]
@@ -1017,10 +1017,10 @@ metafile = true
 
 [[files]]
 file = "mods/xp-obelisk.pw.toml"
-hash = "1e4064990e1b2dfd538747685e13b6753f56722b1feabb7edaf7bb819a8b1246"
+hash = "f6584789606250163a293fa2af1235eff5741e09ad2f14847fffb36738d9df0f"
 metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "8186a9fe882ce3c15c25892ac97cdad7db31db9da1d7836846a9a01c12759892"
+hash = "634a2aa1d860cea4d19639bc80730625d3e063db2543b495ac33c60d7447c36b"
 metafile = true

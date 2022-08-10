@@ -1,13 +1,13 @@
 name = "Lighty"
-filename = "lighty-1.0.2.jar"
+filename = "lighty-1.0.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yjvKidNM/versions/v1.0.2/lighty-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/yjvKidNM/versions/v1.0.3/lighty-1.0.3.jar"
 hash-format = "sha1"
-hash = "3054cd5e9dcb92854991469221e4a97558a91bf8"
+hash = "3de81cc13395145a0cb30930e983b8fd4ca90183"
 
 [update]
 [update.modrinth]
 mod-id = "yjvKidNM"
-version = "to3GEPP3"
+version = "AAgzJITw"
