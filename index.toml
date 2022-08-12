@@ -117,6 +117,11 @@ hash = "62d2ce122f6e9d53cc8a4a902a14a12f358f02b7041667f1744a4ec72a55ae7e"
 metafile = true
 
 [[files]]
+file = "mods/automobility.pw.toml"
+hash = "4abf6881bde4942671580949cd1ad3738e232aae56a63aee33f69233d93c3a98"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
 metafile = true
