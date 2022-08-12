@@ -108,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "44bbbe3639cc7bc86f4013ba987ada87758cd1d88d21563c9beac3ce4ed4972d"
+hash = "18182cee02eddd04cf7a32fc6b34e566d108ebb011a3238ab0a5366e0b10b5a4"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/building-wands.pw.toml"
-hash = "9824679496e05bff4356d246e162a99bc38327a8fd7fac08b9d315218936d909"
+hash = "1c22e5fa95bee0f58c6fb2a3ead7631d8a354d027e827c7e463703fc15cacd13"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "50f3fd4c8887eab3e7d815dd0ef8ae89e8eb0a17665eb1a49dd162a67e57f843"
+hash = "f229f210a206b6a902cc60f74ed299b141279695a2f970d9fb3d5445975e02b6"
 metafile = true
 
 [[files]]
@@ -1017,7 +1017,7 @@ metafile = true
 
 [[files]]
 file = "mods/xp-obelisk.pw.toml"
-hash = "f6584789606250163a293fa2af1235eff5741e09ad2f14847fffb36738d9df0f"
+hash = "6ad4107138950ac748dbd9dc16221ae330b26f57641068ad13209a9497b919d3"
 metafile = true
 
 [[files]]
