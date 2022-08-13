@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/MythicMountsConfig.json"
-hash = "2f5d93f74b5aaf56e102fab0730d4345cf5702e4f9114b759ef8dda80546b3af"
+hash = "daf77987ef539b073f669d734a415e73e73084cccc407e7a38946137ca567494"
 
 [[files]]
 file = "config/charm.toml"
