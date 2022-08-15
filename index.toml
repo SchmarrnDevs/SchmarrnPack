@@ -118,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/automobility.pw.toml"
-hash = "4abf6881bde4942671580949cd1ad3738e232aae56a63aee33f69233d93c3a98"
+hash = "998dbeabd9cbca8a1d2fa3268d8817f47b33925a5b7b46051bdf75f063c8ffcc"
 metafile = true
 
 [[files]]
@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/berries.pw.toml"
-hash = "051ab5597276192ee5417ca8a6ddd8e7aa442cc1c6466e3527a595ad67435781"
+hash = "0947a34624e3be19882c8271e368a92c5aa4b31e7beac11f3631f659cef36e89"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
-hash = "5221c54e7919759051085b8312469f686f2c09a86d6446e92d34ccf029e5c606"
+hash = "f656cceafd2c7c50a3cca0997da62fdadad4a5525528dafccffc860f2b0f3ffa"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "3e270c8f639faff030ec23ef25850608e5ac43fbe627c724c41e4ec1c19d3137"
+hash = "6a0b3a0432eb77b3388c1ff5c08060fa33b279b4065cf0c235e720be2d84aac4"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "1c35cab7734569484a497e630835dc3783e09e45685e0b106f2f307bdc9ae942"
+hash = "8a985aff33c049993c35e44cefe293df87516a5b4e744911e65b7a9fa60d6f53"
 metafile = true
 
 [[files]]
@@ -797,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "mods/powah.pw.toml"
-hash = "e133de2b1c1c78233936f12027f41593885718e918cfa0053619b76d704ff90e"
+hash = "217ec48262b1b9b8ef748fc588a814ec3b69cf6325f85f407c71065bb9fbaefd"
 metafile = true
 
 [[files]]
@@ -822,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "e82e252278eb697ed7620218aeb99ce62ee68987414ee43cba500d8452c85120"
+hash = "24f11fa273c9e8d1a2b3a7b14ecc448e01bfdc97cf8eeb23fe465b9989ba5ef4"
 metafile = true
 
 [[files]]
@@ -842,12 +842,12 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "805fb56db8899254b5cae6a993e28a3b137842ccffbe1ce42b9ed979f19a153b"
+hash = "50aa9073d74653630af6c9c020c6699492346c93570d78765d5aa3e768c74736"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "d1c7e45bd8d82e33e15e645ae50cace38f52e36110dbb634b83fd6128987ba0a"
+hash = "c3e35edc97f0a420421025be41ba1a3af1cc7c59ccf23143e09ce6c1631ec347"
 metafile = true
 
 [[files]]
@@ -887,7 +887,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "21ab9f145635101d9162b7ada8eda696f50611dc5ff9c748182cd7017d792094"
+hash = "d6898ad39aca2231a21132592831b0a37f44aefdf9c2d035903da870d460919e"
 metafile = true
 
 [[files]]
@@ -957,7 +957,7 @@ metafile = true
 
 [[files]]
 file = "mods/traverse.pw.toml"
-hash = "6ad8bd4ab3086a102dc1a4a5266e7482c0f6d79373a74c7bd5fd98d4156a4740"
+hash = "0c6210b484a7023d09b3d82155d556935fa752341f0dae1dda9ae51d1c8503e3"
 metafile = true
 
 [[files]]
@@ -1017,7 +1017,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "98c8ffafe56c38e04da80c8c061e1f1dfc1212a53f3b0c90d7f6b3381c961e95"
+hash = "8a3b712f870b36fb07b311d5a2edc8059a7843ebfee3b5d4a436d014d48e37ea"
 metafile = true
 
 [[files]]
