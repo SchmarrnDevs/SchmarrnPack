@@ -1,13 +1,13 @@
 name = "Revelationary"
-filename = "revelationary-1.0.0.jar"
+filename = "revelationary-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eXrl5E3G/versions/1.0.0/revelationary-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/eXrl5E3G/versions/XVtjQuiL/revelationary-1.0.2.jar"
 hash-format = "sha1"
-hash = "578148836b61c582e29acc6344459f27b1f30e4b"
+hash = "bc8072a7c398073294b790078cd1982a2b93177b"
 
 [update]
 [update.modrinth]
 mod-id = "eXrl5E3G"
-version = "GZpIJEDj"
+version = "XVtjQuiL"

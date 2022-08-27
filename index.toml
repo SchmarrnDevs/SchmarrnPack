@@ -118,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/automobility.pw.toml"
-hash = "998dbeabd9cbca8a1d2fa3268d8817f47b33925a5b7b46051bdf75f063c8ffcc"
+hash = "f289bc692546a62e43cefec49c760fcf7ed6fe2a0e42181d04b61afdbd8c02f4"
 metafile = true
 
 [[files]]
@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/berries.pw.toml"
-hash = "0947a34624e3be19882c8271e368a92c5aa4b31e7beac11f3631f659cef36e89"
+hash = "f37fbad2532cf695bb5470bc8eff5af61e48d411e5e2435d5fde28cbd67c9c2d"
 metafile = true
 
 [[files]]
@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-makeover.pw.toml"
-hash = "7639475415291bd789f96b8c6f151b6e31d9a3223305bf83bd3f7b0ebe834d8e"
+hash = "2ccb92c05354a74b7757693d51ffb36675658823a792c0274b77bf491913ff33"
 metafile = true
 
 [[files]]
@@ -188,12 +188,12 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "e2571519971cf6cf96636b8222f47a1839990d1f2f65ee5cd80c286925f467d9"
+hash = "ec406d2c00e3c198ac69fcafbcb269ae1a88bef0adf580164adff1fabc0229cc"
 metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "c2dc3701c79aad2fa278359d47c32d4e4a10c349b0fc06e8b7400dec9b48700c"
+hash = "37a75aa36e869ed6aeac736e5718e2e43c3381f16707ac1fdaab8a2b7c3da9c8"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/cccbridge.pw.toml"
-hash = "7a316a592fc9ebcaec8f2af6c9a8a282d2478d049391d77099cb66c016ecdcc8"
+hash = "b300eda9e302fd0710735da40a5f368c14db803f2a34de364ba357298b5e3dcd"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/charm.pw.toml"
-hash = "044a2b6829775056c00198a05108187305ba9b57180a5f7540a453fe25e1c952"
+hash = "fbab64e61d911af4bff0d2f4e08583c3d6b3a1f0e8e3e8b576c1910f4807fe85"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia-fabric.pw.toml"
-hash = "6a623ba1310be1c9815fc502128bea1f1a3d98742c2e91fb93f7a41274ccc20b"
+hash = "23a87ec473bfb09e0624b4ef0fdec88f321a8d1f0854566ce74e8697ec34a850"
 metafile = true
 
 [[files]]
@@ -437,12 +437,12 @@ metafile = true
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "6a0b3a0432eb77b3388c1ff5c08060fa33b279b4065cf0c235e720be2d84aac4"
+hash = "35c9d75fce4cc2ed3a149e89b1fa5d601b9e71a1b04386d9f2c69b293cabe744"
 metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "e555fc6193553393d2cb55efe723a2ed726329942627519762ba8886d573b751"
+hash = "527ab802bef708966074912982a167ba2c046c9bb9744c5071700977affab139"
 metafile = true
 
 [[files]]
@@ -477,12 +477,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
+hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "1c35cab7734569484a497e630835dc3783e09e45685e0b106f2f307bdc9ae942"
+hash = "3d73b5dc24dcf2c9a31bd12584359f89f480827cdd009e009c172f3799cd9e31"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/fish-of-thieves.pw.toml"
-hash = "0a2fbc23940fb59a3896b2218aa738af3f96c87780b295b787e528e27dcbda9e"
+hash = "c614f5de5414c468c0538487011458191d8b23c25738a89e5e07de4466fad510"
 metafile = true
 
 [[files]]
@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "f229f210a206b6a902cc60f74ed299b141279695a2f970d9fb3d5445975e02b6"
+hash = "7128f86a878af02b72c2f89be26d0c3c43f7c58b982cbc5a9f0e8e5de3fe055b"
 metafile = true
 
 [[files]]
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "9d7472cb1465125ff5312870eb16fc786422e1a19507a84d993602183940377b"
+hash = "23717d8ec855c9d0036097985a9a614c00cae19a34a9dc06096c1f59eff39884"
 metafile = true
 
 [[files]]
@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
-hash = "e969f8b43e5679d9adf2f027a744f65b011904aa5ad9dd451a48dcb0521f2966"
+hash = "21da451438c4b95811be685f967b800f0672ac0096bf9a4fc80e08db52902005"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "b7ffea5015bb106985a995588be3e80ed0264166a227496b0b780bdbcedd9e65"
+hash = "f11a172b08b335ea25917f884b2facfa4205952a62c3bf6427ae9bff48ac0aea"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "f5c5039ecca5f696933623268db481026e44160cb5eee6de3b2485d06e08e829"
+hash = "b3a5f6bcab7382577050322f78a606f06e2011bf69a9baa179c687317368d1ae"
 metafile = true
 
 [[files]]
@@ -822,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "24f11fa273c9e8d1a2b3a7b14ecc448e01bfdc97cf8eeb23fe465b9989ba5ef4"
+hash = "2ece972fd1306a38ca278d9da23656c73bc103df57709a4bdac0a0271a646f34"
 metafile = true
 
 [[files]]
@@ -842,17 +842,17 @@ metafile = true
 
 [[files]]
 file = "mods/revelationary.pw.toml"
-hash = "cc55de2e7c3dd0cf1fd4122745317cd75608983c91cf81e2786473cf93b359cc"
+hash = "99005398da800d641c7af808a9b56093f1c07e37540d6ec670afd4180bd84852"
 metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "50aa9073d74653630af6c9c020c6699492346c93570d78765d5aa3e768c74736"
+hash = "9a63d62fbc2310528a2b770e9cab13830a819e2c88b5b51479c717a47f3ebf9a"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "c3e35edc97f0a420421025be41ba1a3af1cc7c59ccf23143e09ce6c1631ec347"
+hash = "6bbaa499cb0998b9bd0cf54b1d6e221d7dacd591b7cda58c3ad93b283538246b"
 metafile = true
 
 [[files]]
@@ -877,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "f234a8e383d2145966b28900ca77012c1fe916e4c599c65a7f0f68acd4efbca1"
+hash = "52ba338bab4dd378d56e0188ef9b66d7626b62b40ab2d324c224e99d15a7324a"
 metafile = true
 
 [[files]]
@@ -892,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "d6898ad39aca2231a21132592831b0a37f44aefdf9c2d035903da870d460919e"
+hash = "ac1258095b817315c4119c3d01a9399711c2c1105cc5eaff7a2b4a670bfc6d39"
 metafile = true
 
 [[files]]
@@ -1022,12 +1022,12 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "8a3b712f870b36fb07b311d5a2edc8059a7843ebfee3b5d4a436d014d48e37ea"
+hash = "d51ce9092dd3eea3016cf6ebad6624cb3a6fb7a13b22571abd9f702da53d6cdd"
 metafile = true
 
 [[files]]
 file = "mods/xp-obelisk.pw.toml"
-hash = "6ad4107138950ac748dbd9dc16221ae330b26f57641068ad13209a9497b919d3"
+hash = "12b765bda6ff732f4a1a5fd69c275c096fa555c3262439db075c663add0b7cc3"
 metafile = true
 
 [[files]]
